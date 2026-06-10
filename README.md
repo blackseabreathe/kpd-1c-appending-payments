@@ -4,7 +4,7 @@
 ## Общая структура ответа
 ```json
 {
-  "result": boolean|string|array                               // true при http_code 200, в других случаях - текст ошибки
+  "result": boolean|string|array # true при http_code 200, в других случаях - текст ошибки
 }
 ```
 
